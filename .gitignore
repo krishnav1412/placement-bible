@@ -1,0 +1,10 @@
+node_modules
+dist
+dist-artifact
+artifact
+*.local
+*.tsbuildinfo
+.DS_Store
+.claude
+# Personal: your real application list (used once to fill your private sync data)
+seed
